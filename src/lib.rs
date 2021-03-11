@@ -18,3 +18,16 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
+pub fn tetsy() {
+    println!("called tetsy's `tetsy()`");
+}
+
+fn private_tetsy() {
+    println!("called tetsy's `private_tetsy()`");
+}
+
+pub fn indirect_access() {
+    print!("called tetsy's `indirect_access()`, that\n> ");
+
+    private_tetsy();
+}
