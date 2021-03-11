@@ -1,0 +1,12 @@
+[package]
+name = "tetsy"
+version = "0.0.1"
+authors = ["Tetcoin Developers <support@tetcoin.org>"]
+description = "the tetsy rust library"
+license = "MIT"
+edition = "2018"
+keywords = ["tetcoin", "tetcore", "tetsy", "developer", "library"]
+categories = ["cryptography::cryptocurrencies"]
+homepage = "https://core.tetcoin.org"
+repository = "https://github.com/tetcore/tetsy"
+documentation = "https://docs.rs/tetsy"
