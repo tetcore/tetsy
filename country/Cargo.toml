@@ -1,0 +1,11 @@
+[package]
+name = "country"
+version = "0.0.0"
+authors = ["Tetcoin Developers"]
+edition = "2018"
+description = "Tetsy America"
+readme = "README.md"
+homepage = "https://core.tetcoin.org"
+license = "MIT"
+
+[dependencies]
