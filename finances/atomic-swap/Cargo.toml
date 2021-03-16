@@ -1,0 +1,10 @@
+[package]
+name = "atomic-swap"
+authors = ["Tetcoin Developers <support@tetcoin.org>"]
+description = "Rust Library for Community Representation on the Tetcore Network"
+edition = "2018"
+license = "Apache-2.0"
+version = "0.0.0"
+homepage = "https://github.com/tetcoin/tetcore"
+repository = "https://github.com/tetcoin/tetcore"
+documentation = "https://docs.rs/tetcore"
