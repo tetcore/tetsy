@@ -1,8 +1,6 @@
 ## tetsy
 
-The Tetsy Rust Library
-
-This library simplifies tetcoin specific libraries into a single unified namespace
+The Tetsy Rust Library simplifies Tetcoin specific libraries into a single unified namespace to enable universal decentralization.
 
 ## Tetsy Namespaces
 
